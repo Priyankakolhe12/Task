@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "name": "Priyanka Kolhe",
+      "email": "priya@gmail.com",
+      "roleValue": "customer",
+      "password": "$2b$10$8R7VJwDR5fPH7Dx7ZFFc6eYzqBKkVRGWzychogr1/ipgUhPb6xYMy",
+      "id": "tJ13_83Akxk",
+      "kycStatus": "pending",
+      "kycDetails": {
+        "fullName": "Priyanka Yogesh Kolhe",
+        "dob": "12 / 02 / 2004",
+        "address": "At-khede",
+        "documents": {
+          "aadhaar": {
+            "name": "week11_report.pdf",
+            "type": "application/pdf",
+            "size": 1094633,
+            "data": null
+          },
+          "pan": {
+            "name": "week10_report.pdf",
+            "type": "application/pdf",
+            "size": 981264,
+            "data": null
+          },
+          "selfie": {
+            "name": "monthly3_report.pdf",
+            "type": "application/pdf",
+            "size": 2684139,
+            "data": null
+          }
+        }
+      }
+    }
+  ],
+  "products": [],
+  "orders": [],
+  "kyc": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
